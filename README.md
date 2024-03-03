@@ -1,5 +1,5 @@
 # Little Lemon Food Ordering App
-## Here's the wrap-up of our ANDROID App Capstone, a key milestone in the Meta ANDROID Developer Professional Certificate program. Dive in to discover the delightful offerings on the menu at Little Lemon restaurant and effortlessly place your orders.
+### Here's the wrap-up of our ANDROID App Capstone, a key milestone in the Meta ANDROID Developer Professional Certificate program. Dive in to discover the delightful offerings on the menu at Little Lemon restaurant and effortlessly place your orders.
 
 ## Key Highlights
 - Engaging Onboarding: Easily input your personal details with our user-friendly onboarding screen.
