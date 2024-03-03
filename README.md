@@ -1,14 +1,13 @@
 # Little Lemon Food Ordering App
 ## Here's the wrap-up of our ANDROID App Capstone, a key milestone in the Meta ANDROID Developer Professional Certificate program. Dive in to discover the delightful offerings on the menu at Little Lemon restaurant and effortlessly place your orders.
 
-## Preview
-![Demonstration](https://user-images.githubusercontent.com/93353925/227747468-3e923704-873f-4a06-8bbb-8fad77580034.gif)
-## Features
-- Onboarding screen: prompts users to enter their personal details.
-- Stack navigation: allows users to access the previous screen using the Back button.
-- Home screen: features a header, hero section, menu breakdown section, and food menu list section.
-- Profile screen: displays the user's personal details.
-- Ability to save changes in the Profile screen that are retained when the app is restarted.
+## Key Highlights
+-Engaging Onboarding: Easily input your personal details with our user-friendly onboarding screen.
+-Effortless Navigation: Seamlessly move through screens and revisit previous ones using the Back button.
+-Dynamic Home Interface: Explore a thoughtfully designed home screen comprising a welcoming header, captivating hero section, a detailed menu breakdown, and a comprehensive food menu list.
+-Personalized Profile: View and manage your personal details on the dedicated profile screen.
+-Persistent Changes: Your profile edits stay saved even when you restart the app, ensuring a seamless and customized experience.
+  
 ## Wireframe
 The design of the Home screen is based on the following wireframe:
 
