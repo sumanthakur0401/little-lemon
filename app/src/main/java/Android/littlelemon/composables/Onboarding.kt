@@ -17,12 +17,13 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavHostController
-import Android.littlelemon.R
+
 import Android.littlelemon.helpers.rememberImeState
 import Android.littlelemon.helpers.validateRegData
 import Android.littlelemon.navigation.Home
 import Android.littlelemon.navigation.Onboarding
 import Android.littlelemon.ui.theme.PrimaryGreen
+import SKK.littlelemon.R
 
 @Composable
 fun Onboarding(context: Context, navHostController: NavHostController) {
