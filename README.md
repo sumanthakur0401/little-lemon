@@ -14,4 +14,4 @@ The design of the Home screen is based on the following wireframe:
 <img width="500" alt="Wireframe" src="https://user-images.githubusercontent.com/93353925/227747759-133a6613-06cb-4797-95f1-37a668c8be67.png">
 
 ## Getting Started
-To run the app, you'll need to have Android studio installed. Clone the repository and open the project in Android Studio. Then, build and run the app on a simulator or device.
+To launch the app, make sure you have Android Studio installed. Simply clone the repository, open the project in Android Studio, and proceed to build and run the app on either a simulator or a physical device.
